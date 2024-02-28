@@ -1,3 +1,0 @@
-# Personal web pages
-
-Test
